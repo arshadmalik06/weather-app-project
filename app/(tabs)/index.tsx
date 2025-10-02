@@ -5,7 +5,7 @@ import * as Location from 'expo-location';
 import axios from 'axios';
 
 // --- Paste your API key from OpenWeatherMap here ---
-const API_KEY = "8a88263e0f913388b005b178cfb8fa1f";
+const API_KEY = "ENTER_API_KEY_FROM_OPENWEATHER";
 const BASE_URL = `https://api.openweathermap.org/data/2.5`;
 
 // --- Interfaces to define the structure of our data ---
